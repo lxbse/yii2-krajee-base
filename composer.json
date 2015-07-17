@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-krajee-base",
+    "name": "lxbse/yii2-krajee-base",
     "description": "Base library and foundation components for all Yii2 Krajee extensions.",
     "keywords": ["yii2", "extension", "widget", "krajee", "base", "foundation"],
     "homepage": "https://github.com/kartik-v/yii2-krajee-base",
@@ -12,7 +12,7 @@
             "homepage": "http://www.krajee.com/"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2-bootstrap": "@dev"
     },
